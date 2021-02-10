@@ -22,4 +22,4 @@ Your readers will be adversely impacted by this sentence.
 
 Writing specs puts me at loose ends.
 
-'Pythn is awesome
+'Pythn is awome
